@@ -1,0 +1,14 @@
+{
+  "name": "discovery-agent",
+  "description": "Project-discovery and doc-refinement agents for turning a raw idea into structured requirements, architecture, data-model, and ADR documents.",
+  "owner": {
+    "name": "Jose Neto"
+  },
+  "plugins": [
+    {
+      "name": "discovery-agent",
+      "source": "./",
+      "description": "Project-discovery and doc-refinement agents: turn a raw idea into structured requirements, architecture, data-model, and ADR documents, then keep that doc set healthy over time."
+    }
+  ]
+}
