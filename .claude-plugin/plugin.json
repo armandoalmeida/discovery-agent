@@ -1,0 +1,5 @@
+{
+  "name": "discovery-agent",
+  "description": "Project-discovery and doc-refinement agents: turn a raw idea into structured requirements, architecture, data-model, and ADR documents, then keep that doc set healthy over time.",
+  "version": "1.0.0"
+}
